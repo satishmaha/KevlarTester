@@ -8,6 +8,8 @@
 
 #import "ViewController.h"
 
+#import "KevlarTester-Swift.h"
+
 @implementation ViewController
 
 - (void)viewDidLoad {
